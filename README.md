@@ -1,0 +1,2 @@
+# Jornal
+incident handler jornal 
